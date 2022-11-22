@@ -1,2 +1,1 @@
-# Note-Taker
-# Note-Taker-2
+# Note Taker Starter Code
